@@ -1,45 +1,31 @@
-Sistema de Gestión de Procesos
+# Sistema de Gestión de Procesos
 
-Descripción
-
+## Descripción del proyecto
 Proyecto académico individual desarrollado en C++ para simular la administración de procesos de un sistema operativo.
 
-Estructuras de datos
+## Estructuras de datos utilizadas
+- **Lista enlazada:** registro, búsqueda, modificación y eliminación de procesos.
+- **Cola de prioridad:** organización de procesos según su nivel de prioridad.
+- **Pila:** asignación y liberación de memoria mediante el principio LIFO.
 
-Lista enlazada: registro, búsqueda, modificación y eliminación de procesos.
+## Funcionalidades principales
+- Registrar y eliminar procesos.
+- Buscar procesos por ID y nombre.
+- Modificar prioridades y estados.
+- Planificar y ejecutar procesos.
+- Asignar y liberar memoria.
+- Guardar y recuperar información.
 
-Cola de prioridad: organización y ejecución de procesos según su prioridad.
+## Tecnologías utilizadas
+- C++
+- Dev-C++
+- GitHub
 
-Pila: asignación y liberación de memoria mediante el principio LIFO.
+## Archivos del proyecto
+- `CODIGO01.cpp`: código fuente del sistema.
+- `Informe.pdf`: informe técnico.
 
-Funcionalidades
-
-Registro y administración de procesos.
-
-Planificación de CPU.
-
-Gestión de memoria.
-
-Cambio de estados.
-
-Guardado y recuperación de datos.
-
-Tecnologías
-
-C++
-
-Dev-C++
-
-GitHub
-
-Archivos
-
-CODIGO01.cpp: código fuente.
-
-Informe.pdf: informe técnico del proyecto.
-
-Autor
-
+## Autor
 Jorch Noé Oré Buendía
 
-Curso: Estructura de Datos
+**Curso:** Estructura de Datos
